@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: cubbyhole-cm
 data:
-  user: <path:cubbyhole/kv/data/mysql#user>
+  user: <path:kv/data/mysql#user>
