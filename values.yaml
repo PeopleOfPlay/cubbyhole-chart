@@ -1,2 +1,2 @@
 cm:
-  user: "<path:kv/data/mysql#user>"
+  user: <path:kv/data/mysql#user>
